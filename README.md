@@ -1,10 +1,18 @@
 ![BannerGitHub](https://github.com/user-attachments/assets/793e529b-991c-4ca1-afd6-6c583164975d)
 
-<h1 align="center">Hola 👋  soy Deimer Roncancio ✨ </h1> 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <p align="left">
 🎓 Tecnólogo en Desarrollo de Software
