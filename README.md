@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Emerson Roncancio ✨ </h1> 
 
-<!--
-**DeimerRoncancio/DeimerRoncancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 Tecnologo en Desarrollo de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto: *roncancioavila@gmail.com*
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,docker,postman,vscode,react,nest,ts,postgres,prisma,mongodb,tailwind,bootstrap&perline=12" />
+  </a>
+</p>
+
+<br>
+<h2>Lenguajes mas usados</h2>
+
+![mostlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonRoncancio&hide=shell&theme=transparent)
+
+<br>
