@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋  soy Emerson Roncancio ✨ </h1> 
+<h1 align="center">Hola 👋  soy Deimer Roncancio ✨ </h1> 
 
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Tecnologo en Desarrollo de Software
+🎓 Tecnólogo en Desarrollo de Software
 
-📫 Contacto: *roncancioavila@gmail.com*
+📫 Contacto: *deimerroncancio@gmail.com*
 <!--Intro end-->
   </p>
 <br>
