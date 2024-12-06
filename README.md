@@ -1,10 +1,10 @@
 ![BannerGitHub](https://github.com/user-attachments/assets/793e529b-991c-4ca1-afd6-6c583164975d)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Deimer Roncancio</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta crear soluciones de software y explotar mi creatividad basándome en mis conocimientos técnicos.\
 🎓 &nbsp;Me encuentro en un constante proceso de aprendizaje. Actualmente, estoy profundizando en React.\
