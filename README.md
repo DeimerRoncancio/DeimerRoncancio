@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta crear soluciones de software y explotar mi creatividad basándome en mis conocimientos técnicos.\
-🎓 &nbsp;Me encuentro en un constante proceso de aprendizaje. Actualmente, estoy profundizando en React.\
+🎓 &nbsp;Me encuentro en un constante proceso de aprendizaje. Actualmente, estoy aprendiendo de microservicios.\
 📄 &nbsp;Por favor, revisa mi [Hoja de vida](https://github.com/user-attachments/files/18043499/Hoja.de.vida.pdf) para tener más detalles sobre mi.
 
 <p align="left">
