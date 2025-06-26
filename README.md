@@ -8,7 +8,7 @@
 
 💡 &nbsp;Me gusta crear soluciones de software y explotar mi creatividad basándome en mis conocimientos técnicos.\
 🎓 &nbsp;Me encuentro en un constante proceso de aprendizaje. Actualmente, estoy reforzando mis conociminetos generales.\
-📄 &nbsp;Por favor, revisa mi [Hoja de vida](https://github.com/user-attachments/files/18043499/Hoja.de.vida.pdf) para tener más detalles sobre mi.
+📄 &nbsp;Por favor, revisa mi [hoja-de-vida.docx](https://github.com/user-attachments/files/20934595/hoja-de-vida.docx) para tener más detalles sobre mi.
 
 <p align="left">
 🎓 Tecnólogo en Desarrollo de Software
