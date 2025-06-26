@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/e129c903-2789-4438-b1f1-1de29594c6a6)
+![BannerGitHub](https://github.com/user-attachments/assets/dd41d794-79f0-4011-aad0-e294972a2c10)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Deimer Roncancio</h2>
 
